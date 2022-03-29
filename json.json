@@ -1,0 +1,21 @@
+
+
+{
+    "leadgen_forms": {
+        "data": [
+            {
+                "id": "655456929040954",
+                "locale": "en_US",
+                "name": "Test campaign",
+                "status": "ACTIVE"
+            }
+        ],
+        "paging": {
+            "cursors": {
+                "before": "QVFIUlF6TkowcGpKWjluT2NjamRzTVdvcUxrcnc3blRuNHF4YzA0MWZAZAWTgxTElkcFFiZAnRDWTdZARlhyMnNUQ3NVMjV6a21vWlFIS2RXZA2ZAjRlppZAzBZAZAFhB",
+                "after": "QVFIUlF6TkowcGpKWjluT2NjamRzTVdvcUxrcnc3blRuNHF4YzA0MWZAZAWTgxTElkcFFiZAnRDWTdZARlhyMnNUQ3NVMjV6a21vWlFIS2RXZA2ZAjRlppZAzBZAZAFhB"
+            }
+        }
+    },
+    "id": "267944848769"
+}
